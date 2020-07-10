@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'NexaLight';
+	src: url('../fonts/nexalight.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/nexalight.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/nexalight.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/nexalight.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/nexalight.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/nexalight.svg#nexalight') format('svg'); /* Chrome < 4, Legacy iOS */
+}

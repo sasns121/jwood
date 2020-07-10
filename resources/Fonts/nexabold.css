@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'NexaBold';
+	src: url('../fonts/nexabold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/nexabold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/nexabold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/nexabold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/nexabold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/nexabold.svg#nexabold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
